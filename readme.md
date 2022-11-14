@@ -4,7 +4,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gently-whitesnow&theme=solarized_dark)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gently-whitesnow&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/Gently.whitesnow/badges/large)](https://www.codewars.com/users/Gently.whitesnow)
