@@ -4,8 +4,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gently-whitesnow&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gently-whitesnow&theme=solarized_dark)
-
 [![codewars](https://www.codewars.com/users/Gently.whitesnow/badges/large)](https://www.codewars.com/users/Gently.whitesnow)
 
+LeetCode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gently_whitesnow&theme=dark)](https://github.com/gently-whitesnow/leetcode-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gently-whitesnow&theme=solarized_dark)
