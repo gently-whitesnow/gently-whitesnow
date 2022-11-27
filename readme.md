@@ -6,7 +6,7 @@
 
 [![codewars](https://www.codewars.com/users/Gently.whitesnow/badges/large)](https://www.codewars.com/users/Gently.whitesnow)
 
-<h4 align="center">LeetCode: </h3>
+<h4>LeetCode: </h4>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gently_whitesnow&theme=dark)](https://github.com/gently-whitesnow/leetcode-stats)
 
