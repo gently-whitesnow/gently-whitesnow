@@ -8,4 +8,5 @@
 
 [![codewars](https://www.codewars.com/users/Gently.whitesnow/badges/large)](https://www.codewars.com/users/Gently.whitesnow)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gently_whitesnow&theme=dark)](https://github.com/gently-whitesnow/leetcode-stats)
+<div align="center">
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gently_whitesnow&theme=dark)](https://github.com/gently-whitesnow/leetcode-stats) </div>
