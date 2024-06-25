@@ -7,6 +7,6 @@
 
 <h4>LeetCode: </h4>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gently_whitesnow&theme=dark)](https://github.com/gently-whitesnow/leetcode-stats)
+[![gently_whitesnow's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=gently_whitesnow&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gently-whitesnow&theme=solarized_dark)
